@@ -1,6 +1,6 @@
 ---
 title: "Remilia Shares"
-order: 0
+order: 1
 ---
 
 ## Remilia Shares Token (RST)
