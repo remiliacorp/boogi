@@ -43,7 +43,7 @@ sidebar:
     - order: 5
       path: "/developing"
       title: ":computer: Developing"
-     - order: 6
+    - order: 6
       path: "/gettingstarted"
       title: ":rocket: Getting Started"
   links:
