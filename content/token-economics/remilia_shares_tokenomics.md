@@ -28,12 +28,7 @@ Membership tier:
 * Jade - 20 Shares: Ultra-rare NFT drops, 4X for premium NFT drops, Remilia Island Property
 * Imperial Jade - 100 Shares
 
-## Art Drops
+## Governance Function
 
-### Regular
-
-### Irregular
-
-### Speculative Collaborative Economics
-
+See Patronage Fund
 
