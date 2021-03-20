@@ -63,7 +63,7 @@ social:
 features:
   darkMode:
     enabled: true  
-    default: true
+    default: false
   editOnRepo:
     location: https://github.com/remiliacorp/remi-docs 
     type: github
