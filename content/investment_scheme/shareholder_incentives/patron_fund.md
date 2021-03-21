@@ -7,7 +7,7 @@ In the spirit of collaboration, Remilia Corp intends to institute a Patronage Fu
 
 Subjects of the grants will be determined by Remilia Corp curation, and the winners voted on by shareholders using their Patron Fund Votes on a monthly basis.
 
-<tip>Patron votes are not one per individual; higher tier shareholders hold more votes than lower tier shareholders.<tip>
+<tip>Patron votes are not one per individual; higher tier shareholders hold more votes than lower tier shareholders.</tip>
 
 
 ## Remilia Grants
