@@ -1,6 +1,6 @@
 ---
-title: Shareholder tiers
-order:0
+title: "Shareholder Tiers"
+order: 1
 ---
 
 Benefits are allotted to Shareholders, categorized into Shareholder tiers. Shareholder tiers are determined by the number of Remilia Shares held in a single wallet.
