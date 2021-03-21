@@ -1,5 +1,5 @@
 ---
-title: "Remilia Shares Tokenomics"
+title: "Shares Distribution"
 order: 1
 ---
 
@@ -15,20 +15,3 @@ Mint Remilia Share Tokens (RST) as NFT
 ~5,000 supply over next 4 years. No hard ceiling?
 ~300 minted at start for distribution to founders, artists, et al. (~30 ppl)
 100 minted each month for sale (4700/100 = ~4 years)
-
-## RST Tiers
-
-Baseline incentive to holding more than one share is increased chance in NFT lottery drops
-Additional incentives for more share holders at certain tiers
-
-Membership tier: 
-* Onyx - 1 Share: Access to Remilia Chat, standard NFT drops
-* Quartz - 5 Shares: Private gallery, premium NFT drops
-* Emerald - 10 Shares: Early access to projects, inner-circle chat, double-chances for premium NFT drops
-* Jade - 20 Shares: Ultra-rare NFT drops, 4X for premium NFT drops, Remilia Island Property
-* Imperial Jade - 100 Shares
-
-## Governance Function
-
-See Patronage Fund
-
