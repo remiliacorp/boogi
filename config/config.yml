@@ -29,23 +29,24 @@ sidebar:
   # expanded:
   groups:
     - order: 1
-      path: "/token-economics"
-      title: "Remilia Token Economics"
-    - order: 2
-      path: "/market"
-      title: "Remilia Market"
-    - order: 3
       path: "/collective"
       title: "Remilia Collective"
+    - order: 2
+      path: "/investment_scheme"
+      title: "Investment Scheme"
+    - order: 3
+      path: "/market"
+      title: "Remilia Market"
     - order: 4
-      path: "/philosophy"
-      title: "Remilia Collective Philosophy"
-    - order: 5
       path: "/projects"
       title: "Remilia Projects"
-    - order: 6
+    - order: 5
       path: "/community"
       title: "Remilia Community"
+    - order: 6
+      path: "/contract"
+      title: "Remilia Collective Internal Contract"
+
   links:
     - text: Remilia
       link: https://remilia.org
