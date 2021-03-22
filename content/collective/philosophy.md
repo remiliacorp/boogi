@@ -1,10 +1,10 @@
 ---
-title: "The Remilia Philosophy"
+title: "Remilia Philosophy"
 order: 2
 ---
 
 - Posting is the Art
-- Living is a Manifesto
+- Lifestyle is the Manifesto
 - Collaboration is the Abundance Mindset
 - Embrace the Network, Against Authorship
 - White Heart: Love and Optimism

@@ -1,10 +1,12 @@
 ---
-title: The Remilia Gambit Dispatch
+title: Gambit
 order: 4
 ---
 ## Dispatch 0.1
 
 We're on the cusp of the new mode; posting is the work -- When you post, your enter a lucid, ascetic state, a communion with the network. It's not just media produced in the dark room alone, one picture a day for a 100 days. A video worked on for a week, and uploaded modestly to your page, then linked desperately to anyone you meet. No, it's networked. Authorship died by being distributed.
+
+![](2021-03-21-22-50-49.png)
 
 Remilia is reclaiming what's ours. Posting IS contemporary art, possibly the only field left, it sucks we've been forced to think its cringe to consider it that, that we've been locked out of the art world and demoralized from production only b/c their taste is lagging too far behind and the barrier of entry requires so much mindnumbing grift to teach them it. Instead, we'll just force our way in by moving one step ahead of them. Art world adoption of NFT is inevitable due to the genuine provenance issues it solves.
 
