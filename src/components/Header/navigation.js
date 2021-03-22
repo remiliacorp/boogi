@@ -67,7 +67,7 @@ const Navigation = styled(({ className, links }) => {
       transform: scaleX(1);
     }
     a {
-      font-family: 'Roboto';
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       position: relative;
       color: ${(props) => props.theme.header.font.base};
       font-size: 16px;

@@ -27,7 +27,7 @@ const PoweredText = styled(({ className, text }) => (
   padding-left: 20px;
   span {
     font-size: 12px;
-    font-family: 'Roboto', sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 400;
     line-height: 1.625;
   }
