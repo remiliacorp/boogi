@@ -1,6 +1,6 @@
 ---
 title: "Remilia Coin ($REMI)"
-order: 3
+order: 5
 ---
 
 ## Exchange Mechanism

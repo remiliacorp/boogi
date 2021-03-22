@@ -7,7 +7,7 @@ Benefits are allotted to Shareholders, categorized into Shareholder tiers, deter
 
 Each of these benefits will be discussed in the following pages.
 
-## Rights
+## Share Governance and Emission Rights
 
 |    Shareholder Tier    | Onyx (1) | Quartz (5) | Emerald (10) | Jade (20) | Imperial (100) |
 |:-------------------------------:|:----:|:------:|:-------:|:----:|:--------:|
@@ -17,7 +17,7 @@ Each of these benefits will be discussed in the following pages.
 |  **[Jade Cabbage NFT Drop Ticket(s)](../shareholder_incentives/art_drops#jadecabbage)** |   🚫  |    🚫   |    1    |   2  |    10    |
 |  **[Jadeite Grade NFT Drop Ticket(s)](../shareholder_incentives/art_drops)** |   🚫  |    🚫   |    🚫    |   1  |     5    |
 
-## Access Benefits
+## Shareholder Access Rights
 
 |    Shareholder Tier    | Onyx (1) | Quartz (5) | Emerald (10) | Jade (20) | Imperial (100) |
 |:----------------:|:----:|:------:|:-------:|:----:|:--------:|
