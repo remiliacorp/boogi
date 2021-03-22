@@ -3,14 +3,14 @@ import defaultColors from './colors';
 const colors = {
   ...defaultColors,
 
-  primary: defaultColors.red,
-  primaryDark: defaultColors.blueDark,
-  font: '#dddddd',
-  fontDark: '#8a8a8a',
-  background: '#29282A',
-  mainBackground: '#1E1E1F',
-  border: '#323234',
-  hover: defaultColors.red,
+  primary: defaultColors.orange,
+  primaryDark: defaultColors.blue,
+  font: '#f3f3f3',
+  fontDark: '#ffffff',
+  background: '#000000',
+  mainBackground: '#303022',
+  border: '#ffb500',
+  hover: defaultColors.orange,
   shadow: defaultColors.gray + '33',
 };
 
