@@ -32,14 +32,14 @@ sidebar:
       path: "/collective"
       title: "Remilia Collective"
     - order: 2
-      path: "/investment_scheme"
-      title: "Investment Scheme"
-    - order: 3
       path: "/market"
       title: "Remilia Market"
-    - order: 4
+    - order: 3
       path: "/projects"
       title: "Remilia Projects"
+   - order: 4
+      path: "/investment_scheme"
+      title: "Investment Scheme"
     - order: 5
       path: "/community"
       title: "Remilia Community"
