@@ -1,6 +1,6 @@
 ---
 title: Gambit
-order: 4
+order: 2
 ---
 ## Dispatch 0.1
 

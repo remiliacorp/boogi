@@ -32,21 +32,19 @@ sidebar:
       path: "/collective"
       title: "Remilia Collective"
     - order: 2
-      path: "/market"
-      title: "Remilia Market"
-    - order: 3
-      path: "/projects"
-      title: "Remilia Projects"
-    - order: 4
       path: "/investment_scheme"
       title: "Investment Scheme"
+    - order: 3
+      path: "/market"
+      title: "Remilia Market"
+    - order: 4
+      path: "/projects"
+      title: "Remilia Projects"
     - order: 5
+      path: "/contract"
+    - order: 6
       path: "/community"
       title: "Remilia Community"
-    - order: 6
-      path: "/contract"
-      title: "Remilia Collective Internal Contract"
-
   links:
     - text: Remilia
       link: https://remilia.org

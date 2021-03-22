@@ -2,10 +2,6 @@
 title: Roadmap
 order: 1
 ---
----
-title: "Roadmap"
-order: 1
----
 
     
 | Pre-Launch                         | Q1                                             | Q2                                    | Q3                                                       |   |
