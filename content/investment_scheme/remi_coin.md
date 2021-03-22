@@ -1,7 +1,6 @@
 ---
 title: "Remilia Coin ($REMI)"
-order: 6
----
+order: ---
 
 ETH Contract to create Remi Coin ($REMI). 
 

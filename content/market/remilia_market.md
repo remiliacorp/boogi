@@ -11,7 +11,7 @@ Remilia Collective artists are contracted to present exclusively on our Collecti
 
 The Market is tightly curated, with Remilia Corp controlling uploads and auctions in collaboration with the artists, with a focus on value preservation.
 
-## Remilia Residency
+### Remilia Residency
 
 Artists will be provided residency to show works in Remilia Market for the season. 
 
