@@ -7,11 +7,11 @@ const colors = {
   primaryDark: defaultColors.white,
   font: '#008000',
   fontDark: '#121213',
-  background: '#026a02',
-  mainBackground: '#026a02',
+  background: '#ffffe0',
+  mainBackground: '#ffffe0',
   border: '#9a9a9a',
   hover: defaultColors.white,
-  shadow: defaultColors.white + '33',
+  shadow: defaultColors.yellow + '33',
 };
 
 export default {
