@@ -1,5 +1,6 @@
 ---
 title: Roadmap
+order: 5
 ---
 
 | Pre-Launch                         | Q1                                             | Q2                                    | Q3                                                       |   |

@@ -1,3 +1,7 @@
+---
+title: Gambit
+order: 4
+---
 ## Dispatch 0.1
 
 We're on the cusp of the new mode; posting is the work -- When you post, your enter a lucid, ascetic state, a communion with the network. It's not just media produced in the dark room alone, one picture a day for a 100 days. A video worked on for a week, and uploaded modestly to your page, then linked desperately to anyone you meet. No, it's networked. Authorship died by being distributed.
