@@ -14,12 +14,16 @@ header:
   logoLink: "/"
   helpUrl: ""
   links:
-    - text: Remilia
+    - text: Homepage
       link: https://remilia.org
       external: true
     - text: Docs
       link: "/"
       external: false
+    - text: Market
+      link: https://remilia.org
+    - text: Chat
+      link: https://chat.remilia.org
 sidebar:
   enabled: true
   # forcedNavorder:
@@ -46,8 +50,12 @@ sidebar:
       path: "/community"
       title: "Remilia Community"
   links:
-    - text: Remilia
+    - text: Homepage
       link: https://remilia.org
+    - text: Market
+      link: https://remilia.org
+    - text: Chat
+      link: https://chat.remilia.org
   ignoreIndex: false
 pwa:
   enabled: true
@@ -56,12 +64,12 @@ pwa:
     crossOrigin: anonymous
     icon: "/assets/favicon.png"
 
-social:
-  twitter: https://twitter.com/remiliacorp
+# social:
+#   twitter: https://twitter.com/remiliacorp
 
 features:
   darkMode:
-    enabled: true  
+    enabled: false  
     default: false
   editOnRepo:
     location: https://github.com/remiliacorp/remi-docs 
@@ -120,7 +128,7 @@ features:
     show: true
     depth: 4
   fullScreenMode: 
-    enabled: true
+    enabled: false
     hideHeader: true
     hideToc: true
     hideSidebar: true
