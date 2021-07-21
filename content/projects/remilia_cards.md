@@ -3,12 +3,9 @@ title: "Remilia: The Card Game"
 order: 1
 ---
 
-A trading card game sold as collectable NFTs in a fictional card game inspired by Magic: The Gathering's game-breaking meta exploit community.
-
-The cards in the game will feature monsters, items and traps. The monsters will all be some anthropomorphized to some form indicative of the female gender.
-
-
-
+NFT collectibles sold expressing a fictional card game as an ARG, designed as an experimental financial minigame exploiting NFT technology to express a non-existent trading card economy.
+The cards are released in seasons, each collaborating with a different artist for the card art, to create complex collectability tied to the artist's reputation.
+The card's text content itself each serve to express the obfuscated rules and aesthetic setting of the fictional game, which itself is an exploration of and commentary on the phenomenon of game-breaking metaplay.
 
 ## Format
 
@@ -30,6 +27,17 @@ Each set of 15 will have 6-9 monster girl cards. If all monster girls in the set
 
 "Rare Booster Packs" will also be sold at a premium that feature lower distribution of common and higher distribution of uncommon, rare and ultra-rare cards (30%, 50%, 16%, 4%).
 
+## Card Crafting
+
+A crafting system exists to exchange cards in the hopes of creating a new, more valuable or useful card.
+Crafting recipes are not shared transparently, requiring players to either experiment independently or coordinate together to discover fruitful combinations, as well as unlock rare cards that are only possible via crafting.
+This mechanism is designed to increase scarcity in the market through the destruction of cards as well as push player interaction.
+
+## NFT Figurine
+
+The collection of a complete set of cards in a single wallet allows the wallet holder to collect an airdrop of a 3D figurine NFT. One is sculpted of a character featured in each set. This mechanism is designed to provide a direct incentive for set completion.
+
+
 ## Internal Rules
 
 Author's note: 
@@ -42,8 +50,6 @@ Thus, by wielding powerful forces on the field, a player lowers their own agency
 Monsters, aside from having agency and influence, have resistance as a defense resource, which can be used to block another player's monsters in combat, same as mtg, attacking player selects monsters to attack with, defending player selects monsters to block those with, monsters deal damage to each other depending on influence and are removed from the game if resistance is exceeded, but excess influence from the attacker will always pass through the defending monster and attack the defending player. This is a brief summary of the imaginary fundamentals which allow me to think up a couple designs.
 ```
 
-
 ## Commentary
 
-Here we achieve a blend of artificially scarce collectable & transparent gamification, with actual artistic interest as well as the complexity of long-term speculative value tied to artist's clout; while giving a space to explore Ome Onno's creative meditations on TCG meta.
-
+Here we achieve a blend of artificially scarce collectable & transparent gamification, with actual artistic interest as well as the complexity of long-term speculative value tied to artist's clout; while giving a space to explore Ome Onno's creative meditations on TCG meta in the form of a conceptual Alternate Reality Game.
