@@ -60,8 +60,8 @@ pwa:
     crossOrigin: anonymous
     icon: "/assets/favicon.png"
 
-# social:
-#   twitter: https://twitter.com/remiliacorp
+social:
+   twitter: https://twitter.com/remiliacorp
 
 features:
   darkMode:
