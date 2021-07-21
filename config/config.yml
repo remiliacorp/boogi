@@ -1,6 +1,6 @@
 ---
 metadata:
-  name: Remilia Docs
+  name: Remilia Documentation
   short_name: Remilia
   description: Remilia - NFT Art Collective
   language: en
@@ -22,10 +22,6 @@ header:
       external: false
     - text: Market
       link: https://remilia.org
-    - text: Chat
-      link: https://chat.remilia.org
-    - text: TCG Wiki
-      link: https://remilia.fandom.com/
 sidebar:
   enabled: true
   # forcedNavorder:
@@ -38,14 +34,14 @@ sidebar:
       path: "/collective"
       title: "Remilia Collective"
     - order: 2
-      path: "/investment_scheme"
-      title: "Investment Scheme"
+      path: "/dao"
+      title: "Artist Co-op as DAO"
     - order: 3
-      path: "/market"
-      title: "Remilia Market"
+      path: "/gallery"
+      title: "NFT Gallery Ecosystem"
     - order: 4
       path: "/projects"
-      title: "Remilia Projects"
+      title: "Other Projects"
     - order: 5
       path: "/contract"
     - order: 6
@@ -56,8 +52,6 @@ sidebar:
       link: https://remilia.org
     - text: Market
       link: https://remilia.org
-    - text: Chat
-      link: https://chat.remilia.org
   ignoreIndex: false
 pwa:
   enabled: true
