@@ -22,6 +22,8 @@ header:
       external: false
     - text: Market
       link: https://remilia.org
+      external: true
+
 sidebar:
   enabled: true
   # forcedNavorder:
@@ -43,8 +45,6 @@ sidebar:
       path: "/projects"
       title: "Other Projects"
     - order: 5
-      path: "/contract"
-    - order: 6
       path: "/community"
       title: "Remilia Community"
   links:
