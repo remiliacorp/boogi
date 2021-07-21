@@ -6,7 +6,7 @@ order: 0
 
 ## Background
 
-![Remilia Jackson, Remilia Collective Founder](2021-03-21-18-38-39.png) ![Remilia Jackson, Remilia Collective Founder](2021-03-21-18-38-39.png)
+![Remilia Jackson, Remilia Collective Founder](2021-03-21-18-38-39.png)
 
 
 
@@ -20,28 +20,36 @@ Remilia Collective was founded on 1/11/21 by Remilia Jackson, organizing a group
 
 ## Remilia is an Institution
 
-Remilia Collective primarily intends to engage in the NFT art space, but we also aspire to be host a wide-ranging platform for artistic experimentation. To achieve this, a portion of revenue is collected from NFT art sales to fund Remilia projects adjacent to NFT Art, organized under the Remilia Corp entity. 
+Remilia Collective primarily intends to engage in the NFT art space, but also aspires to be host a wide-ranging platform for artistic experimentation at the intersection of social and crypto technology. Remilia Corporation is formed as an umbrella company to develop the Remilia Collective vision.
 
-### Remilia Corp
+## Remilia Corp
 
-Remilia Corp is an umbrella shell company, incorporated as an LLC, funded by a cut of revenue from NFT sales on the Remilia Market as per the Remilia Collective Contract. Remilia Corp funds will be utilized towards building out infrastructure and projects for Remilia Collective.
+Remilia Corporation is formed as an umbrella company to build the infrastructure required to realize Remilia Collective's vision. Remilia Corp also intends to provide its development resources to artists to help realize software-based conceptual art, which in turn can be used as POC's for possible products & services.
+
+## Remilia Collective 
+
+Remilia Collective is organized as a Decentralized Autonomous Organization, under a smart contract that ties a portion of each artist's NFT sales to a co-operative investment fund shared amongst all the artists, as well as a portion back to Remilia Corp as a agency fee to fund its operations and development.
 
 ### Investment Scheme
 
-Due to the expansion of Remilia Corp as more than just a Collective of NFT art work, Remilia is introducing an investment scheme to allow investment in the Corp itself, and to formalize the patron relationship by providing NFT artwork in turn to a dedicated audience of Remilia Shares Token shareholders.
+Remilia Collective provides an investment scheme to the public in the form of Remilia NFT Shares. These shares provide exclusive rights to Remilia Collective services and events, as well as serve as tickets to regular lotteries of NFT art prepared by Remilia Collective.
 
 ### Remilia Market
 
 Remilia Market is the private NFT art gallery exclusively dedicated to representing Remilia Collective's NFT artwork. 
 
-Initially released as web-based gallery, the Market will also be expanding into a virtual gallery for curated shows and a space for opening parties, and other experiments in the intersection between 3D/VR and crypto-art.
+Initially released as web-based gallery, the Market will be expanding into a virtual gallery for curated shows and a space for opening parties, and other experiments in the intersection between 3D/VR and crypto-art.
 
 ### Remilia House
 
-Remilia House is a digital webstore and outsourced production facility for physical products by Remilia Collective artists. Most goods in the store will be sold at-cost as this is to facilitate experiments in physical work, not intended for profit revenue.
+Remilia House is an NFT book publishing house. Limited edition runs of books from selected writers will be published as tokens which can be bought, sold or burned to be redeemed for a physical copy of the book.
 
-Some Remilia House sub-projects will explore the intersection of physical production and NFTs.
+### Remilia Shop
+
+Remilia Shop is a digital webstore and outsourced production facility for physical products by Remilia Collective artists. Most goods in the store will be sold at-cost as this is to facilitate experiments in physical work, not intended for profit revenue.
+
+Some Remilia Shop sub-projects will explore the intersection of physical production and NFTs.
 
 ### Remilia Projects
 
-Various other projects by Remilia Collective artists funded by Remilia Corp will be held under the Remilia Projects banner. The flagship project is Remilia: The Card Game.
+Various other projects by Remilia Collective artists funded by Remilia Corp will be held under the Remilia Projects banner.
