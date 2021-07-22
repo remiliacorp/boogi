@@ -1,6 +1,6 @@
 ---
 title: NFT Art Drops
-order: 2
+order: 3
 ---
 
 Remilia holds regular "Art Drop" lotteries for limited-series NFTs produced by Remilia Collective artists and collaborators. Each Remilia Share will act as one ticket for the random lottery, allowing shareholders with more shares to have more chances of winning the NFT.
