@@ -5,10 +5,11 @@ order: 0
 
 Remilia Market is a private digital art gallery for NFTs exclusively curating Remilia Collective artist works, located at [remilia.org/market](https://remilia.org/market)
 
-![](2021-03-21-22-50-29.png)
+![Collection View](2021-07-21-17-05-19.png)
+
+![Art View](2021-07-21-17-05-52.png)
 
 ## Exclusivity
-
 Remilia Collective artists are contracted to present exclusively on our Collection, with first sales always taking place on Remilia Market. The Market is tightly curated, with Remilia Corp controlling uploads and auctions in collaboration with the artists, with a focus on value preservation.
 
 ### Remilia Residency
