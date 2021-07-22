@@ -1,5 +1,5 @@
 ---
-title: "Remilia Gallery"
+title: "Virtual Gallery"
 order: 1
 ---
 

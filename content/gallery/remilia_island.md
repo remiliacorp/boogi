@@ -1,5 +1,5 @@
 ---
-title: "Remilia Island"
+title: "Virtual Social Real Estate"
 order: 2
 ---
 
