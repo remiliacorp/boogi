@@ -7,7 +7,7 @@ Dispatches are any NFT communications distributed to every Remilia Shareholder. 
 
 ## Design
 
-Dispatches are provided as highly diluted NFTs as an experiment in utilizing NFT air drops as a distribution platform. The format is open-ended, but examples include a simple letter intended to be read by all shareholders, to an art print, to the RemiZine(#remizine)
+Dispatches are provided as highly diluted NFTs as an experiment in utilizing NFT air drops as a distribution platform. The format is open-ended, but examples include a simple letter intended to be read by all shareholders, to an art print, to the [RemiZine](#remizine)
 
 ## Speculative Value
 
@@ -15,4 +15,4 @@ All Dispatches will be unique and minted only once, so it is plausible some Disp
 
 ## RemiZine
 
-[RemiZine](projects/remizine) is the premiere Remilia Dispatch, consisting of a [electronic zine](https://fanlore.org/wiki/Ezine) collaborated on by Remilia Collective artists, as an outlet for experimental work and platform for collective collaboration. Issues are provided exclusively to Shareholders as NFT air drops - the first NFT Zine.
+[RemiZine](../projects/remizine) is the premiere Remilia Dispatch, consisting of a [electronic zine](https://fanlore.org/wiki/Ezine) collaborated on by Remilia Collective artists, as an outlet for experimental work and platform for collective collaboration. Issues are provided exclusively to Shareholders as NFT air drops - the first NFT Zine.
