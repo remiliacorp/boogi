@@ -36,8 +36,8 @@ sidebar:
       path: "/collective"
       title: "Remilia Collective"
     - order: 2
-      path: "/dao"
-      title: "Artist Co-op as DAO"
+      path: "/investment"
+      title: "Investment Scheme"
     - order: 3
       path: "/gallery"
       title: "NFT Gallery Ecosystem"
@@ -60,8 +60,8 @@ pwa:
     crossOrigin: anonymous
     icon: "/assets/favicon.png"
 
-social:
-   twitter: https://twitter.com/remiliacorp
+# social:
+#   twitter: https://twitter.com/remiliacorp
 
 features:
   darkMode:

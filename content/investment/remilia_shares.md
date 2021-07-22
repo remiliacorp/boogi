@@ -4,9 +4,7 @@ order: 1
 published: true
 ---
 
-Remilia Shares Token (RST) will be made available for sale to the public to provide exclusive access benefits and form a mechanism for investing in Remilia Collective as a whole.
-
-RST primary function is acting as a distribution platform for RemCo artist NFTs, with a host of secondary benefits ordered by Shareholder tiers.
+Remilia Shares Token (RST) will be made available for sale to the public to provide exclusive access benefits and form a mechanism for investing in Remilia Collective as a whole. RST primary function is acting as a distribution platform for RemCo artist NFTs, with a host of secondary benefits ordered by Shareholder tiers.
 
 ## Tokenomics
 
